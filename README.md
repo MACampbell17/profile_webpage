@@ -11,10 +11,10 @@
 
 World-wide potato is a major agricultural crop. Following harvest the storage of potato tubers is is a process that is dependent on the dormancy of the plant tissue or the application of chemical sprout inhibitors. 
 
-## Gene expression
+### Gene expression
 Examination of gene expression through the anlysis ot transcripts, using microarray and RNA-seq, revealed that as tubers transition from the dormant to the nondormant state, the sensitivity to sprout regualting chemicals increases.
 
-### GEO accessions:
+#### GEO accessions:
 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14863](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148637)
 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148635](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148635)
 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145578](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145578)
@@ -23,13 +23,13 @@ Examination of gene expression through the anlysis ot transcripts, using microar
 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31825](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31825)
 
 
-## Methylome Analysis
+### Methylome Analysis
 
 
 ### Dormancy in Grapes
 
 
-### Publications (last ten years)
+##### Publications (last ten years)
 
 Changes in gene expression in potato meristems treated with the sprout suppressor 1,4-dimethylnaphthalene are dependent on tuber age and dormancy status, PLoS ONE - July 2020
 Michael A. Campbell, Carley Gwin, Helen H. Tai, Rachael Adams
