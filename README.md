@@ -1,11 +1,11 @@
 # Mike Campbell 
 
-<img src="https://user-images.githubusercontent.com/28538494/92257259-eb6b1e80-eea2-11ea-8056-95de3640aa28.png" align="right" height="59" width="48">
+<img src="https://user-images.githubusercontent.com/28538494/92257259-eb6b1e80-eea2-11ea-8056-95de3640aa28.png" align="right" height="89.28" width="72">
 
 
 
 
-#
+
 ## Research and Teaching Profile
 ### Dormancy and sprout control in potato
 
