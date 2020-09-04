@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Mike Campbell
 
-Reserch and teaching profile
+Research and teaching profile
 
 
-# Header 1
-## Header 2
+# Research
+## Dormancy and sprout control in potato
 ### Header 3
 
 - Bulleted
