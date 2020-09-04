@@ -5,9 +5,11 @@
 
 
 
-
+#
 ## Research and Teaching Profile
 ### Dormancy and sprout control in potato
+
+World-wide potato is a major agricultural crop. Following harvest the storage of potato tubers is is a process that is dependent on the dormancy of the plant tissue or the application of chemical sprout inhibitors. 
 
 ### Header 3
 
