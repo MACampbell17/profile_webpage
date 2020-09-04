@@ -14,13 +14,13 @@ World-wide potato is a major agricultural crop. Following harvest the storage of
 ## Gene expression
 Examination of gene expression through the anlysis ot transcripts, using microarray and RNA-seq, revealed that as tubers transition from the dormant to the nondormant state, the sensitivity to sprout regualting chemicals increases.
 
-# GEO accessions:
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148637" title="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148637"><a/>
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148635" title="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148635"><a/>
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145578" title="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145578"><a/>
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61796" title="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61796"><a/>
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61690" title="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61690"><a/>
-<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31825" title="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31825"><a/>
+### GEO accessions:
+[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14863](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148637)
+[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148635](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148635)
+[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145578](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145578)
+[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61796](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61796)
+[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61690](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61690)
+[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31825](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE31825)
 
 
 ## Methylome Analysis
@@ -33,7 +33,7 @@ Examination of gene expression through the anlysis ot transcripts, using microar
 
 Changes in gene expression in potato meristems treated with the sprout suppressor 1,4-dimethylnaphthalene are dependent on tuber age and dormancy status, PLoS ONE - July 2020
 Michael A. Campbell, Carley Gwin, Helen H. Tai, Rachael Adams
-<a href="https://doi.org/10.1371/journal.pone.0235444" title="https://doi.org/10.1371/journal.pone.0235444"></a>
+[https://doi.org/10.1371/journal.pone.0235444](https://doi.org/10.1371/journal.pone.0235444)
 
 The Sprout Regulating Compound 1,4-Dimethylnaphthalene Exhibits Fungistatic Activity, J. Ag Res. - January 2019
 Michael Campbell, Rachael Adams, Emily Dobry, Kara Dobson, Veroncia Stefanick, Jessica Till 
