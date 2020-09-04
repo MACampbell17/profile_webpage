@@ -6,6 +6,7 @@ Research and teaching profile
 
 ## Research
 ### Dormancy and sprout control in potato
+
 ### Header 3
 
 - Bulleted
